@@ -1,0 +1,31 @@
+{
+  "name": "pdftoimage",
+  "version": "1.0.0",
+  "description": "Convert pdf to an image (pdftocairo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksami/pdftoimage.git"
+  },
+  "keywords": [
+    "pdf",
+    "image",
+    "jpg",
+    "jpeg",
+    "svg",
+    "png",
+    "tiff"
+  ],
+  "author": "ksami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksami/pdftoimage/issues"
+  },
+  "homepage": "https://github.com/ksami/pdftoimage#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
