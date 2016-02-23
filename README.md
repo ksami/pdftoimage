@@ -3,6 +3,7 @@
 npm module for converting a pdf file to an image (png, jpeg, tiff, svg) using pdftocairo from [Poppler](https://poppler.freedesktop.org/).
 
 ## Installation
+Make sure `pdftocairo` is installed and on your path, then
 ```
 npm install pdftoimage
 ```
